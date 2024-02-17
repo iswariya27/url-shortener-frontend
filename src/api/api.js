@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export default axios.create({
-  // baseURL: "https://url-shortener-be.onrender.com/",
-  baseURL: "http://localhost:4002/",
+  baseURL: "https://url-short-backend-4w34.onrender.com/",
+  // baseURL: "http://localhost:4002/",
 });
